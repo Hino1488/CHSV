@@ -1,0 +1,171 @@
+.MainDetails {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-bottom: 70px;
+}
+.blockOne {
+  width: 300px;
+  height: 300px;
+}
+.blockTwo {
+  background-color: bisque;
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+}
+.blockThree {
+  width: 300px;
+  height: 300px;
+}
+.online {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.avatar {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: aqua;
+}
+.online img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.peoponline {
+  font-weight: 900;
+  font-size: 20px;
+}
+.mark {
+  font-weight: 900;
+  border: 1px solid rgba(185, 185, 185, 0.911);
+  width: 200px;
+  border-radius: 15px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  align-items: center;
+  font-size: 20px;
+  gap: 5px;
+}
+.markcars {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.fotocar {
+  width: 300px;
+  position: relative;
+  right: 150px;
+  transform: scaleX(-1);
+}
+.carteg {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.082);
+  width: 75px;
+  padding: 5px;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.chertochka {
+  width: 75px;
+  background-color: black;
+  height: 1px;
+  margin: 15px 0px 15px 5px;
+}
+.cartext {
+  font-weight: 600;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+}
+.strelka {
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Vmeste {
+  display: flex;
+  gap: 175px;
+}
+.cherta {
+  background-color: black;
+  height: 1px;
+  width: 30px;
+}
+.explore {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 25px;
+}
+.details {
+  background-color: #8372bf;
+  height: 220px;
+  border-radius: 20px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  /* display: flex;
+  justify-content: center;
+flex-direction: column;
+  align-items: center; */
+  color: white;
+  padding: 30px;
+}
+.chertochki {
+  width: 150px;
+  background-color: white;
+  height: 1px;
+  margin: 15px 0px 15px 5px;
+}
+.price {
+  color: white;
+  font-weight: 700;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.stark {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: 700;
+  font-size: 25px;
+  color: white;
+  margin-bottom: 20px;
+}
+.star {
+  color: #ffad3e;
+  font-size: 25px;
+}
+.detailstext {
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.znaki {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.mouse {
+  font-size: 20px;
+}
+.arrow {
+  font-size: 20px;
+}

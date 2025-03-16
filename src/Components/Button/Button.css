@@ -1,0 +1,16 @@
+.primary {
+  background-color: #876de7;
+  padding: 10px 15px;
+  border-radius: 18px;
+  color: white;
+  border: 0px;
+}
+.secondary {
+  font-size: 15px;
+  padding-bottom: 5px;
+  color: #876de7;
+  font-weight: 700;
+  border: none;
+  border-bottom: 1px solid #876de7;
+  background-color: white;
+}

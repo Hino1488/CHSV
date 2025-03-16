@@ -1,0 +1,51 @@
+.MainFeat{
+    display: flex;
+width: 80%;
+margin-bottom: 50px;
+}
+.Dopp{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+justify-content: space-around;
+padding-left: 30px;
+}
+.spon{
+ font-weight: 800;
+    color: #8F77E8;
+    font-size: 25px;
+}
+.Yoyo{ 
+    font-size: 40px;
+}
+.Detali{
+    display: flex;
+    gap: 40px;
+    font-size: 20px;
+}
+.Praisik{
+    display: flex;
+    flex-direction: column;
+}
+.Speed{
+    display: flex;
+    flex-direction: column;
+}
+.Consumption{
+    display: flex;
+    flex-direction: column;
+}
+.Knopks{
+    width: 150px;
+}
+.X{
+font-weight: 900;
+font-size: 30px;
+}
+.P{
+    color: #7E7D7F;
+
+}
+.Pauu{
+    background-color: ghostwhite;
+}

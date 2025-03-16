@@ -1,0 +1,89 @@
+.mainFut{
+    background: #000;
+    color: white;
+display: flex; 
+flex-direction: column;
+
+margin: 0 auto;
+}
+.reg1{
+    display: flex;
+    gap: 30px;
+ flex-direction: column;
+
+}
+.reg{
+display: flex;
+flex-direction: row;
+gap: 13px;
+}
+.registr {
+    border: none;
+    outline: none;
+  background-color: #000;
+  border-bottom:1px solid white;
+  color: white;
+width: 300px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.registr::placeholder{
+    color: rgb(226, 226, 226);
+font-size: 20px;
+}
+.subsc{
+    font-size: 40px;
+    width: 170px;
+}
+.fotka{
+    background-color: white;
+    border-radius: 40%;
+    width: 300px;
+
+}
+.bigPapa{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 40px;
+    align-items: center;
+    margin-bottom: 15px;
+}
+ul{
+     list-style: none;
+     display: flex;
+     gap: 5px;
+ }
+ .ikona li{
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    gap: 1px;
+border-radius: 50%;
+width: 30px;
+height: 30px;
+justify-content: center;
+align-items: center;
+}
+ .fut{
+margin: 0 auto;
+    width: 80%;
+
+}
+.MainHead{
+border-bottom: 1px solid white;
+height: 40px;
+margin-bottom: 15px;
+}
+.Copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.ikona li:hover{
+    cursor: pointer;
+background-color: gray;
+color: #000;
+}

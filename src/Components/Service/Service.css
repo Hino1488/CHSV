@@ -1,0 +1,57 @@
+.MainServ {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 70px;
+}
+.ourS {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  font-size: 30px;
+  flex-direction: column;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+justify-content: center;
+}
+.ourSr {
+  font-size: 23px;
+font-weight: 700;
+  color: #7e62e5;
+}
+.bests {
+  font-weight: 800;
+  display: flex;
+  flex-direction: column;
+margin-bottom: 30px;
+}
+.cardfirst, .cardsecond, .cardthirty{
+    background: #7e62e534;
+    border-top: 2px solid #7e62e5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 300px;
+    gap: 10px;
+}
+.icons{
+    font-size: 100px;
+    color: #7e62e5;
+    
+}
+.e{
+    font-size: 30px;
+    font-weight: 700;
+}
+.s{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: rgb(112, 112, 112);
+}

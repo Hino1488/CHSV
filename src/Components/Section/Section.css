@@ -1,0 +1,46 @@
+.mainSection{
+display: flex;
+    justify-content: center;
+
+}
+.sectionL{
+display: flex;
+flex-direction: column;
+}
+.Title{
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Knopki{
+margin-top: 52px;
+display: flex;
+gap: 15px;
+}
+.Pervicar{
+    width: 400px;
+}
+.mainSection{
+display: flex;
+gap: 100px;
+}
+.sectionR{
+    display: flex;
+    flex-direction: column;
+    
+}
+.Dop {
+    background: #FFEBD3;
+    width: 100px;
+    border-radius: 10px;
+    
+}
+.Cp{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.trusted{
+    font-size: 30px;
+    font-weight: bold;
+}
